@@ -1,0 +1,9 @@
+Start Plan 
+-----------
+
+Please review AGENTS.md and the plan, and let me know if you have any questions. Do not do any work yet.
+
+Update Plan 
+------------
+
+Please confirm that PLAN.md is up to date with all the latest, including any design decisions that you made. Let me know when ready 
