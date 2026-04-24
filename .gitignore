@@ -36,6 +36,10 @@ yarn-error.log*
 # claude code
 .claude/
 
+# strapi agent config (contains API tokens)
+.github/strapi-config.json
+.github/strapi-schemas.json
+
 # typescript
 *.tsbuildinfo
 next-env.d.ts
