@@ -1,0 +1,9 @@
+{
+  "instances": {
+    "main": {
+      "baseUrl": "http://localhost:1337",
+      "token": ""
+    }
+  },
+  "default": "main"
+}
